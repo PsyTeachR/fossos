@@ -28,4 +28,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R and RStudio updating
 
-[Clear instructions that work for Mac and PC] (http://bioinfo.umassmed.edu/bootstrappers/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html) - importantly, update R, then R studio and then packages
+[Clear instructions that work for Mac and PC](http://bioinfo.umassmed.edu/bootstrappers/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html) - importantly, update R, then R studio and then packages
