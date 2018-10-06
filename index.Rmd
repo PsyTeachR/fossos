@@ -10,9 +10,22 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Programming Experiments
 
 - [PsychoPy](http://www.psychopy.org/) - a free, powerful alternative to Presentation™ or e-Prime™, written in Python
-- [OpenSesame](https://osdoc.cogsci.nl/3.1/) - Another free experiment presentation software.  Nicer interface than PsychoPy, but does not work on all Macs.
+- [OpenSesame](https://osdoc.cogsci.nl/3.1/) - Another free experiment presentation software.  Very similar to PsychoPy, but does not work on all Macs.
 
 ## Animation / Video
 
-- [Open Broadcasting System](https://obsproject.com) - Free and open source software for video recording and live streaming
+- [Open Broadcasting System](https://sproject.com) - Free and open source software for video recording and live streaming
 - [av package for R](https://github.com/ropensci/av#readme) - The av Package: Production Quality Video in R [(blog)](https://ropensci.org/technotes/2018/10/06/av-release/)
+
+## Images
+
+- [Canava](https://www.canva.com/) - for making infographics and posters
+
+## Useful Software for Teaching
+
+- [Sli.do](https://www.sli.do/) - Audience interaction software.  Free version gives 3 polls and is is very easy and intuitive to use (GDPR compliant at time of writing)
+- [Padlet](https://en-gb.padlet.com/) - collaborative workspaces/notice boards.  The free version gives 12 padlets, but they can be reused (GDPR compliant at time of writing)
+
+## R and RStudio updating
+
+[Clear instructions that work for Mac and PC (http://bioinfo.umassmed.edu/bootstrappers/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html) - importantly, update R, then R studio and then packages
