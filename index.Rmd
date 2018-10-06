@@ -1,0 +1,17 @@
+---
+title: "Free and Open Source Software for Open Science"
+author: "Compiled by the #psyteachr team at University of Glasgow Psychology"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Programming Experiments
+
+- [PsychoPy](http://www.psychopy.org/) - a free, powerful alternative to Presentation™ or e-Prime™, written in Python
+
+## Animation / Video
+
+- [Open Broadcasting System](https://obsproject.com) - Free and open source software for video recording and live streaming
+- [av package for R](https://github.com/ropensci/av#readme) - The av Package: Production Quality Video in R [(blog)](https://ropensci.org/technotes/2018/10/06/av-release/)

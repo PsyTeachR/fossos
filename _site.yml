@@ -1,0 +1,15 @@
+name: "fossos"
+author: "#psyteachr at University of Glasgow, Psychology"
+output_dir: "docs"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    toc_depth: 4
+    df_print: paged
+    theme: flatly
+    highlight: tango
+    css: style.css
+    includes:
+      after_body: footer.html
+      in_header: header.html
