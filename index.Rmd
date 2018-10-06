@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [Canava](https://www.canva.com/) - for making infographics and posters
 
-## Useful Software for Teaching
+## Useful Software for Class Interaction
 
 - [Sli.do](https://www.sli.do/) - Audience interaction software.  Free version gives 3 polls and is is very easy and intuitive to use (GDPR compliant at time of writing)
 - [Padlet](https://en-gb.padlet.com/) - collaborative workspaces/notice boards.  The free version gives 12 padlets, but they can be reused (GDPR compliant at time of writing)
