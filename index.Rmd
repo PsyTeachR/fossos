@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Programming Experiments
 
 - [PsychoPy](http://www.psychopy.org/) - a free, powerful alternative to Presentation™ or e-Prime™, written in Python
+- [OpenSesame](https://osdoc.cogsci.nl/3.1/) - Another free experiment presentation software.  Nicer interface than PsychoPy, but does not work on all Macs.
 
 ## Animation / Video
 
