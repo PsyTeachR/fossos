@@ -20,12 +20,26 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Images
 
 - [Canava](https://www.canva.com/) - for making infographics and posters
+- [imagemagick](https://www.imagemagick.org/) - command-line tools for image processing
+- [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/) - powerful alternative to Adobe Photoshop
 
 ## Useful Software for Class Interaction
 
 - [Sli.do](https://www.sli.do/) - Audience interaction software.  Free version gives 3 polls and is is very easy and intuitive to use (GDPR compliant at time of writing)
 - [Padlet](https://en-gb.padlet.com/) - collaborative workspaces/notice boards.  The free version gives 12 padlets, but they can be reused (GDPR compliant at time of writing)
 
+## Developing interactive web tutorials
+
+- [learnr](https://rstudio.github.io/learnr/) - Develop online tutorials implemented using the [shiny](https://www.rstudio.com/products/shiny/) platform for web apps
+- [webex](https://github.com/psyteachr/webex/) - Develop web tutorials as standalone HTML files
+
+## Generating/assessing exams and coursework
+
+- [assessr](https://github.com/psyteachr/assessr/) - Generate and assess R assignments in RMarkdown (currently under development)
+- [flexTeaching](https://github.com/richarddmorey/flexTeaching/) - Use RStudio flexdashboards to create random stats assignments
+- [generate-exam](https://github.com/ritcheym/generate-exam) - Generate a formatted exam from a CSV of questions
+- [exams](http://www.r-exams.org/) - Generate exams/quizzes/tests in a variety of formats
+
 ## R and RStudio updating
 
-[Clear instructions that work for Mac and PC](http://bioinfo.umassmed.edu/bootstrappers/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html) - importantly, update R, then R studio and then packages
+- [Clear instructions for R/RStudio updating that work for Mac and PC](http://bioinfo.umassmed.edu/bootstrappers/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html) - importantly, update R, then R studio and then packages
