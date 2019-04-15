@@ -33,13 +33,15 @@ knitr::opts_chunk$set(echo = TRUE)
 - [learnr](https://rstudio.github.io/learnr/) - Develop online tutorials implemented using the [shiny](https://www.rstudio.com/products/shiny/) platform for web apps
 - [webex](https://github.com/psyteachr/webex/) - Develop web tutorials as standalone HTML files
 
+## Bookdown styles for textbooks
+
+- [#psyteachr style](https://psyteachr.github.io/book-template/) - The bookdown style used by #psyteachr, which includes HTML webex widgets
+- [`msmbstyle` style](https://github.com/grimbough/msmbstyle) - A style inspired by the Tufte handout design, created by [Mike Smith](https://twitter.com/grimbough)
+
 ## Exams and coursework
 
-- [assessr](https://github.com/psyteachr/assessr/) - Generate and assess R assignments in RMarkdown (currently under development)
+- [assessr](https://github.com/psyteachr/assessr/) - Generate and assess R assignments in RMarkdown (in development)
 - [flexTeaching](https://github.com/richarddmorey/flexTeaching/) - Use RStudio flexdashboards to create random stats assignments
 - [generate-exam](https://github.com/ritcheym/generate-exam) - Generate a formatted exam from a CSV of questions
 - [exams](http://www.r-exams.org/) - Generate exams/quizzes/tests in a variety of formats
-
-## Misc tips and tricks
-
-- [Clear instructions for R/RStudio updating that work for Mac and PC](http://bioinfo.umassmed.edu/bootstrappers/bootstrappers-courses/courses/rCourse/Additional_Resources/Updating_R.html) - importantly, update R, then R studio and then packages
+- [markr](https://gupsych.github.io/trdair_workshop/feedback.html) - Generating exam and assessment feedback reports (in development)
